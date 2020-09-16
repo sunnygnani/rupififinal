@@ -1,0 +1,590 @@
+.aboutitem {
+  max-width: 926px;
+  min-width: 600px;
+  margin: auto;
+}
+
+.productitem {
+  max-width: 926px;
+  min-width: 600px;
+  margin: auto;
+}
+
+.teamitem {
+  max-width: 926px;
+  min-width: 600px;
+  margin: auto;
+}
+
+.aboutpadding {
+  margin: auto;
+  padding-top: 96px;
+  width: 95%;
+}
+
+.productpadding {
+  margin: auto;
+  padding-top: 96px;
+  width: 95%;
+}
+
+.productcard {
+  width: 95%;
+}
+
+.aboutpara {
+  letter-spacing: 0.3px;
+  font-size: 16px;
+  color: #3a3f42;
+  font-weight: normal;
+}
+
+.aboutcontainer {
+  margin: auto;
+  width: 926px;
+}
+
+.productcontainer {
+  margin: auto;
+  width: 926px;
+}
+
+.teamcontainer {
+  margin: auto;
+  width: 926px;
+}
+
+.rupifi {
+  font-family: Lato;
+  font-weight: bold;
+  color: #007Bff;
+  font-size: 24px
+}
+
+
+.heading {
+  font-size: 2rem;
+  font-family: lato;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.aboutc {
+  font-family: lato;
+  color: #007bff;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.productc {
+  font-family: lato;
+  color: #007bff;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.nav-item{
+  color:#007bff;
+}
+.peoplec {
+  font-family: lato;
+  color: #007bff;
+  font-size: 1.25rem;
+    font-weight: bold;
+}
+.custom-toggler.navbar-toggler {
+    border-color: lightgreen;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+
+color:#007bff;
+}
+
+.rupifiw {
+  height: 3rem;
+  width: 4.5rem;
+  padding-right: 1rem;
+}
+
+.form-group {
+  padding-right: 16px;
+}
+
+.contactpara {
+  width: 70%;
+  letter-spacing: 0.3px;
+  font-size: 16px;
+  color: #3a3f42;
+  font-weight: normal;
+  padding-bottom: 16px;
+}
+
+.productcard {
+  margin-top: 80px;
+  margin-left: auto;
+}
+
+.payimg {
+  width: 370px;
+  height: 330px;
+}
+
+.finimg {
+  width: 370px;
+  height: 330px;
+}
+
+.psubtext {
+  color: #3a3f42;
+  font-family: lato;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.productpara {
+  font-size: 16px;
+  font-family: Lato;
+  color: #3a3f42;
+}
+
+.productitem {
+  margin-top: 50px;
+}
+
+.productpadding {
+  margin-top: 90px;
+}
+
+.teamitem {
+  margin-top: 300px;
+  width: 836px
+}
+
+.financial {
+  padding-top: 80px;
+}
+
+.collecttionimg {
+  width: 370px;
+  height: 330px;
+}
+
+.ppl {
+  font-size: 28px;
+  font-family: lato;
+  font-weight: bold;
+  text-align: center;
+  color: #007bff;
+  margin: auto;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+
+.twocircle {
+  padding-top: 2rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+  width: 28rem;
+  height: 28rem;
+}
+
+.ptext {
+  margin-top: 40px;
+  font-family: lato;
+}
+
+.paytext {
+  margin-top: 60px;
+  margin-bottom: 8px;
+  font-size: 24px;
+  font-family: lato;
+  font-weight: bold;
+}
+
+.cashtext {
+  margin-top: 60px;
+  font-size: 24px;
+  font-family: lato;
+  font-weight: bold;
+}
+
+.paysubtext {
+  font-size: 20px;
+  font-style: lato;
+  font-weight: normal;
+  color: #3a3f42;
+}
+
+.abouttext {
+  padding-top: 42px;
+}
+
+.product {
+  margin-top:
+}
+
+.paypara {
+  font-size: 16px;
+}
+
+.card {
+  margin: 32px auto;
+  /* Added */
+  float: none;
+  border: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-title {
+  text-align: center;
+}
+
+.button {
+  margin: auto;
+}
+
+.teams {
+  text-align: center;
+  font-size: 28px;
+  color: #007Bff;
+  font-family: lato;
+  font-weight: bold;
+  margin-top: 6rem;
+}
+
+.sname {
+  color: #007bff;
+  font-size: 16px;
+  font-family: lato;
+  font-weight: 700;
+  margin-bottom: 4px;
+  margin-top: 8px;
+}
+
+.scompany {
+  color: #007bff;
+  font-size: 12px;
+  font-family: lato;
+  font-weight: 700;
+}
+
+.backed {
+  text-align: center;
+  font-size: 20px;
+  color: #007Bff;
+  font-family: lato;
+  font-weight: bold;
+  margin-top: 6rem;
+}
+
+.backedrow {
+  margin-top: 60px;
+}
+
+.peoplerow {
+  margin-top: 60px;
+}
+
+.grc {
+  width:100%;
+  filter: grayscale(100%);
+}
+
+.foot {
+  color: #3a3f42;
+  margin-top: px;
+}
+
+.termsc {
+  margin-top: 6rem;
+  padding-bottom: 3rem;
+}
+
+.footlogo {
+  height: 40px;
+  weight: 50px;
+}
+
+.cashflow {
+  padding-left:
+}
+.payrup {
+  padding-top: 6rem;
+  p
+}
+
+.paycash {
+  padding-top: 6rem;
+
+}
+
+.payfin {
+  padding-top: 6rem;
+}
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+.phone{display:none;}
+.desktop{display:block;}
+@media (max-width: 600px) {
+  .desktop{
+    display: none;
+  }
+  .phone{display: block;}
+  .paytext{
+    text-align: center;
+  }
+  .paysubtext{
+    text-align: center;
+
+  }
+  .paypara{
+    text-align: center;
+  }
+  .paypara {
+    font-size:16px ;
+  }
+
+  .collecttionimg {
+    width: 100%;
+    height: auto;
+  }
+
+  .finimg {
+    width: 100%;
+    height: auto;
+  }
+  .payimg{
+    width:100%;
+    height:auto;
+  }
+  .twocircle{
+    width:100%;
+    height:auto;
+  }
+  .grc{
+    width:50%;
+  }
+}
+
+
+
+@media (min-width: 601px) and (max-width: 767px) {
+  .desktop{
+    display: none;
+  }
+.paytext{
+  text-align: center;
+}
+.paysubtext{
+  text-align: center;
+
+}
+.paypara{
+  text-align: center;
+}
+  .paypara {
+      font-size:16px ;
+    }
+
+    .collecttionimg {
+      width: 75%;
+      height: auto;
+    }
+
+    .finimg {
+      width: 75%;
+      height: auto;
+    }
+    .payimg{
+      width:75%;
+      height:auto;
+    }
+    .twocircle{
+      width:100%;
+      height:auto;
+
+  }
+  .grc{
+    width:50%;}
+}
+@media (min-width: 767px) and (max-width: 842px) {
+  .desktop{
+    display: none;
+  }
+  .phone{display: block;}
+  .paytext{
+    text-align: center;
+  }
+  .paysubtext{
+    text-align: center;
+
+  }
+  .paypara{
+    text-align: center;
+  }
+  .paypara {
+      font-size:16px ;
+    }
+
+    .collecttionimg {
+      width: 75%;
+      height: auto;
+    }
+
+    .finimg {
+      width: 75%;
+      height: auto;
+    }
+    .payimg{
+      width:75%;
+      height:auto;
+    }
+    .twocircle{
+      width:75%;
+      height:auto;
+
+  }
+  .grc{
+    width:100%;}
+}
+
+.footer{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+@media (min-width: 842px) and (max-width: 992px) {
+  .desktop{
+    display: none;
+  }
+  .phone{display: block;}
+  .paytext{
+    text-align: center;
+  }
+  .paysubtext{
+    text-align: center;
+
+  }
+  .paypara{
+    text-align: center;
+  }
+  .paypara {
+      font-size:16px ;
+    }
+
+    .collecttionimg {
+      width: 75%;
+      height: auto;
+    }
+
+    .finimg {
+      width: 75%;
+      height: auto;
+    }
+    .payimg{
+      width:75%;
+      height:auto;
+    }
+    .twocircle{
+      width:75%;
+      height:auto;
+
+  }
+  .grc{
+    width:100%;}
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1350) {
+.phone{
+  display: none;
+}
+.desktop{
+  display: block;
+}
+  .paypara {
+
+      font-size:1rem ;
+    }
+
+    .collecttionimg {
+      width: 100%;
+      height: auto;
+    }
+
+    .finimg {
+      width: 100%;
+      height: auto;
+    }
+    .payimg{
+      width:100%;
+      height:auto;
+    }
+    .twocircle{
+      width:100%;
+      height:auto;
+
+  }
+  .grc{
+    width:100%;}
+
+.payrup{
+  padding-right: 2rem;
+}
+.payfin{
+  padding-right: 2rem;
+}
+.paycash{
+  padding-left: 2rem;
+}
+}
+@media (min-width: 1351px) {
+  .phone{
+    display: none;
+  }
+  .desktop{
+    display: block;
+  }
+  .phone {display: none;}
+  .paypara {
+      font-size:16px ;
+    }
+
+    .collecttionimg {
+      width: 100%;
+      height: auto;
+    }
+
+    .finimg {
+      width: 100%;
+      height: auto;
+    }
+    .payimg{
+      width:100%;
+      height:auto;
+    }
+    .twocircle{
+      width:100%;
+      height:auto;
+
+  }
+  .grc{
+    width:100%;}
+    .payrup{
+      padding-right: 2rem;
+    }
+    .payfin{
+      padding-right: 2rem;
+    }
+    .paycash{
+      padding-left: 2rem;
+    }
+}
